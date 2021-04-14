@@ -1,3 +1,5 @@
+once you download the GJ_Crate_Breaker folder open it and run GamJam.exe
+
 Movement controls
 W: move Up
 A: move Left
